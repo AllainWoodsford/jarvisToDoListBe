@@ -9,7 +9,9 @@
   "author": "Allain",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^16.0.3",
     "express": "^4.18.2",
-    "pg": "^8.9.0"
+    "pg": "^8.9.0",
+    "postgres": "^3.3.3"
   }
 }
